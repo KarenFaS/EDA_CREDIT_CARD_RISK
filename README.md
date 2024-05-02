@@ -1,6 +1,8 @@
 # EDA RIESGO DE TARJETAS DE CREDITO
+
+![juego_logo](https://media.ambito.com/p/74edaf75ad24d00665ba7c01cfdd575f/adjuntos/239/imagenes/040/634/0040634984/tarjetas-credito.jpg) 
+
   
-💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳 
 
 **Objetivo**\
  Realizar el Análisis explotatrio a una base de datos que incluye los registros de solicitudes y el estado de pagos de tarjetas de crédito, 
