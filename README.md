@@ -1,6 +1,6 @@
 # EDA RIESGO DE TARJETAS DE CREDITO
   
-![eda_logo](https://es.wikipedia.org/wiki/Tarjeta_de_cr%C3%A9dito#/media/Archivo:Three_credit_cards-_Visa,_Mastercard_and_American_Express_(close-up_on_logos).jpg)  
+💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳💳 
 
 **Objetivo**\
  Realizar el Análisis explotatrio a una base de datos que incluye los registros de solicitudes y el estado de pagos de tarjetas de crédito, 
